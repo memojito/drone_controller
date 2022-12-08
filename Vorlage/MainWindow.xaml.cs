@@ -222,7 +222,7 @@ namespace Vorlage
 
                     //AccsoryDesired setzen
 
-                    //Arming
+                    // Arming and Disarming
 
                     if (myState.Gamepad.Buttons == GamepadButtonFlags.Start)
                     {
